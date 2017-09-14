@@ -1,0 +1,16 @@
+﻿Question 1: What’s difference between Portable (CPL) and Shared (SAP) projects?
+SAP (Shared Application Project) creates another project within it
+PCL (Portable Class Library) 
+*Just create a file
+*Creates a library
+
+Question 2: What are the requirements to configure Xamarin Mac Agent?
+*Disco Virtual IOS
+*Visual Studio 2017 Xamarin
+*Xcode
+
+Question 3: How many projects you have and why you need all?
+
+Has four projects
+They are necessary to be able to execute them in the different platforms and to see how they work each of them, of its different structure
+
